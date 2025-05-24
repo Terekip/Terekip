@@ -1,4 +1,4 @@
-# Tererkip
+# Terekip
 # Hi there, I'm Kiprotich Terer! 👋
 
 I’m a passionate **Data Engineer / Scientist** specializing in building scalable data pipelines and AI-driven solutions that solve real-world problems—especially in machine learning, predictive analytics, and healthcare data.
